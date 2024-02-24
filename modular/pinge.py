@@ -36,7 +36,7 @@ async def _(c: user, m):
     _ping = f"""
 **{em.ping} Pong `{str(delta_ping).replace('.', ',')}ms`**
 **{em.pong} Uptime !! `{upnya}`**
-**{em.alive} Fira-Userbot**
+**{em.alive} Wildan-Userbot**
 **{em.profil} {c.me.first_name} **
 """
     await m.reply(_ping)
@@ -44,4 +44,4 @@ async def _(c: user, m):
 
 @bot.on_message(filters.command("ping"))
 async def _(u, m):
-    await m.reply_text("<b> Fira Userbot Tes</b>")
+    await m.reply_text("<b> Wildan Userbot Tes</b>")
