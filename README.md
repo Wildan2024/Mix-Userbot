@@ -2,7 +2,7 @@
   <img src="https://telegra.ph//file/19b336da463a05d7d8f8c.jpg" alt="Ayra Logo">
 </p>
 <h1 align="center">
-  <b>Fira Userbot</b>
+  <b>Wildan Userbot</b>
 </h1>
 
 <b>A stable pluggable Telegram userbot + Voice & Video Call music bot, based on Pyrogram</b>
@@ -103,7 +103,7 @@ Gunakan bot ini dengan risiko Anda sendiri, dan gunakan userbot ini dengan bijak
 * [Risman](https://github.com/mrismanaziz) for [Man-Userbot](https://github.com/mrismanaziz/Man-Userbot)
 * [AyiinXd](https://github.com/AyiinXd) for [Ayiin-Userbot](https://github.com/AyiinXd/Ayiin-Userbot)
 * [Dan](https://github.com/delivrance) for [Pyrogram](https://github.com/pyrogram/pyrogram)
-* [Wildan](https://github.com/naya1503) for [Fira-Userbot](https://github.com/Wildan2024/Mix-Userbot)
+* [Wildan](https://github.com/naya1503) for [Wildan-Userbot](https://github.com/Wildan2024/Mix-Userbot)
 
 ## Maintained By
 * [![Dan.](https://img.shields.io/static/v1?label=Ky&message=nan&color=critical)](https://t.me/mhmdwldnnnn)
